@@ -1,0 +1,19 @@
+# Foundry 编译产物与缓存
+/out/
+/cache/
+/broadcast/
+
+# 依赖目录:本项目用 `forge install` / `git clone` 拉到 lib/。
+# 若你打算把 lib/ 一并提交到仓库,删掉下面这行即可(本项目因 Windows submodule 问题
+# 采用直接 clone 而非 submodule,详见根 README 的环境说明)。
+# /lib/
+
+# 环境变量(私钥/RPC 绝不入库)
+.env
+.env.*
+!.env.example
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
