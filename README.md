@@ -1,5 +1,7 @@
 # 02 · Foundry ERC-20 代币(Studio Token / STD)
 
+> 🟢 **Live on Sepolia**:[`0x834a…3984`](https://sepolia.etherscan.io/address/0x834a5cE3a7b214369DbaFcc59757031c259C3984) · Sourcify 已验证源码
+
 > Web3 作品集 · 作品 #1
 > 对应计划:**solidity-15天补枪路线 · Day4(ERC-20 代币)**
 > 技术栈:Solidity 0.8.28 + Foundry + OpenZeppelin Contracts v5.1.0
